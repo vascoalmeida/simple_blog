@@ -1,0 +1,15 @@
+.post {
+    border: 1px solid lightslategrey;
+    margin: 0 auto;
+    margin-bottom: 10vw;
+    width: 30vw;
+    padding: 2vw;
+}
+
+.post_title {
+    color: #FCA205;
+}
+
+.post_text {
+    text-align: justify;
+}
