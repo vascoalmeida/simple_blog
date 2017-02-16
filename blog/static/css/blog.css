@@ -1,3 +1,11 @@
+h1 {
+    font-family: lobster;
+    font-size: 4vw;
+    text-align: center;
+    width: 30vw;
+    margin: 5vw auto;
+}
+
 .post {
     border: 1px solid lightslategrey;
     margin: 0 auto;
