@@ -7,6 +7,7 @@
             <h2 class="post_title">{{post.title}}</h2>
             <p class="post_date">Posted at {{post.published_date}}</p>
             <p class="post_text">{{post.text}}</p>
+            <h3><a href="{% url 'post_detail' pk=post.pk %}">{{ post.title }}</a></h3>
         </div>
     {% endfor %}
 {% endblock %}
