@@ -2,4 +2,4 @@
 
 A simple blog that I made from back when I was still learning Django.
 
-#Python #Django #CSS3 #HTML5
+#Python #Django #SQLite #CSS3 #HTML5
